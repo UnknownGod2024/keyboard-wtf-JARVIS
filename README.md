@@ -258,7 +258,6 @@ keyboard.wtf is open source! Contributions welcome:
 **Tanush Shah**  
 - GitHub: [@UnknownGod2011](https://github.com/UnknownGod2011)
 - Email: unknowngod2024@gmail.com
-- Project: [keyboard.wtf](https://keyboard-wtf.vercel.app)
 
 ---
 
